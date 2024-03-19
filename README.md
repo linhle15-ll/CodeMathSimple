@@ -2,15 +2,15 @@
 
 # AND101 Project 4 - CodeMath
 
-Submitted by: **Your Name Here**
+Submitted by: **Linh Ngoc Le**
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that **fill in this description**
+**Degree Convertor** is an android app that **helps users convert C degree to F degree**
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **😊**
 
 ## Application Features
 
